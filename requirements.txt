@@ -1,2 +1,2 @@
-taskwarrior-capsules>=0.1,<=1.0
+taskwarrior-capsules>=0.1
 taskw>=1.0.3,<2.0
